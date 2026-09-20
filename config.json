@@ -1,0 +1,22 @@
+{
+  "inbox_dir": "inbox",
+  "organized_dir": "organized",
+  "db_path": "docorganizer.db",
+  "model": "gemma3:4b",
+  "categories": [
+    "Bills",
+    "Tax",
+    "Work",
+    "Identity",
+    "Financial",
+    "Legal",
+    "Health",
+    "Immigration",
+    "Education",
+    "Travel",
+    "Medical",
+    "Contracts",
+    "Receipts",
+    "Personal"
+  ]
+}
