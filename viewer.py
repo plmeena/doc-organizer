@@ -1,4 +1,4 @@
-from docorganizer.ui.viewer import run
+from src.ui.viewer import run
 
 
 if __name__ == "__main__":

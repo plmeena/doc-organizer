@@ -1,4 +1,4 @@
-from docorganizer.app import main
+from src.app import main
 
 
 if __name__ == "__main__":

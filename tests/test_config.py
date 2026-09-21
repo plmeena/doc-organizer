@@ -2,7 +2,7 @@ from pathlib import Path
 
 import importlib
 
-import docorganizer.config as config_module
+import src.config as config_module
 
 
 def test_get_config_returns_default_paths(monkeypatch):
