@@ -1,0 +1,20 @@
+# Environment files
+.env
+
+# Build output
+target/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+#database
+docorganizer.db
